@@ -100,6 +100,7 @@
     </form>
 
     <?php
+        //Bagian modifikasi dalam bentuk table
         echo "<h2>Data yang anda isi : </h2>";
         echo "<table width = 450 border=1 cellspacing=5 cellpadding=5 bgcolor = #AFEEEE>
         <tr >
